@@ -23,6 +23,8 @@
 - South African Digital Economy Analysis – Analyzing digital intensity gaps between SMEs and large enterprises (2021–2025).
 - Student Management System – Full CRUD application with database integration.
 - Interactive Python Calculator – GUI-based calculator app.
+- Advanced Phishing Email Detector
+- Password Strength Checker
 
 ---
 
