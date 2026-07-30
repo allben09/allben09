@@ -29,9 +29,9 @@
 ---
 
 📫 Let's Connect
-LinkedIn – 
+LinkedIn – https://www.linkedin.com/in/allnen-rakgoale-a94581426?utm_source=share_via&utm_content=profile&utm_medium=member_android
 📧 alphaallben@gmail.com
-
+📞 +27 642 761 623
 ---
 
 Building data-driven solutions for South Africa's future.
