@@ -28,8 +28,8 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/a949c655-25e5-475d-ac9a-7639f5f1713e/public_url) |
 | 🤖 **AI Literacy** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/OR61bg2W) |
 | 📊 **Generative AI Essentials: Using LLMs with Data** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/8fecff8f-4da8-4e15-9958-58fbfea6b606/public_url) |
-| ⚡ **Getting Started with Artificial Intelligence** | Aug 2026 | [🔗 Verify]() |
-| 🔥 **Getting Started With Generative AI** | Aug 2026 | [🔗 Verify]() |
+| ⚡ **Getting Started with Artificial Intelligence** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/7bb87844-a354-4d07-add5-3b1ecd5b7a2a/public_url) |
+| 🔥 **Getting Started With Generative AI** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/534f0e62-c798-48b7-ae3b-bc93599046df/public_url) |
 
 ### 🟡 Cloud & Infrastructure
 | Certification | Issued | Badge |
