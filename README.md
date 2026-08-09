@@ -35,7 +35,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
 | ☁️ **AWS Academy – Cloud Foundations** | Jul 2026 | [🔗 Verify](https://www.credly.com/go/DNM6LH1B) |
-| 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify]() |
+| 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify](https://www.credly.com/badges/ca693dbc-2738-4f22-984a-28c437a4cc46/public_url) |
 | 📈 **INFNOVA – Data Analytics & Visualization** | Jul 2026 | [🔗 Verify]() |
 
 ### 🟠 In Progress
