@@ -5,43 +5,118 @@
 💼 Aspiring Junior Data Analyst | Junior Cyber Security Analyst | Junior Software Engineer
 
 ---
-## Certifications
-
-### IBM SkillsBuild (5 Certifications)
-- 🎨 **Enterprise Design Thinking Practitioner** (August 2026)
-- 🤖 **AI Literacy** (August 2026)
-- 📊 **Generative AI Essentials: Using LLMs to Work with Data** (August 2026)
-- 🧠 **Getting Started with Artificial Intelligence** (August 2026)
-- ⚡ **Getting Started With Generative AI** (August 2026)
-
-### Cloud & Data
-- ☁️ **AWS Academy** – Cloud Foundations (July 2026)
-- 📊 **Cisco Networking Academy** – Data Science Essentials with Python (July 2026)
-- 📈 **INFNOVA Technologies** – Data Analytics & Visualization with Python (July 2026)
-
-### In Progress
-- 🏦 **FNB Pre-Academy** – Python Coding (Phase 1 Complete)
 
 ---
 
-🛠️ Tech Stack
-`Python` `Pandas` `Matplotlib` `Seaborn` `Streamlit` `SQL` `Git`
+## 👨‍💻 About Me
+
+Passionate about building **intelligent, secure, and scalable systems** that solve real-world problems. Currently pursuing a **BSc in Information Technology** at Richfield Institute of Technology (Graduating 2027), with a strong focus on:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- ☁️ Cloud Computing (AWS Certified)
+- 🛡️ Cybersecurity & Threat Detection
+- 📊 Data Science & Analytics
+- 🧠 Enterprise Design Thinking
 
 ---
 
-📂 Projects
-- South African Digital Economy Analysis – Analyzing digital intensity gaps between SMEs and large enterprises (2021–2025).
-- Student Management System – Full CRUD application with database integration.
-- Interactive Python Calculator – GUI-based calculator app.
-- Advanced Phishing Email Detector
-- Password Strength Checker
+## 🏆 Certifications
+
+### 🟢 IBM SkillsBuild (5 Certifications)
+| Certification | Issued | Badge |
+| :--- | :--- | :--- |
+| 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/yn2rv0EB) |
+| 🤖 **AI Literacy** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/OR61bg2W) |
+| 📊 **Generative AI Essentials: Using LLMs with Data** | Aug 2026 | [🔗 Verify]() |
+| ⚡ **Getting Started with Artificial Intelligence** | Aug 2026 | [🔗 Verify]() |
+| 🔥 **Getting Started With Generative AI** | Aug 2026 | [🔗 Verify]() |
+
+### 🟡 Cloud & Infrastructure
+| Certification | Issued | Badge |
+| :--- | :--- | :--- |
+| ☁️ **AWS Academy – Cloud Foundations** | Jul 2026 | [🔗 Verify](https://www.credly.com/go/DNM6LH1B) |
+| 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify]() |
+| 📈 **INFNOVA – Data Analytics & Visualization** | Jul 2026 | [🔗 Verify]() |
+
+### 🟠 In Progress
+| Certification | Status |
+| :--- | :--- |
+| 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete |
+| 🧘 **IBM – Explorations into Mindfulness** | In Progress |
+| 🤖 **IBM – Make Agentic AI Work for You** | In Progress |
 
 ---
 
-📫 Let's Connect
-LinkedIn – https://www.linkedin.com/in/allnen-rakgoale-a94581426?utm_source=share_via&utm_content=profile&utm_medium=member_android
-📧 alphaallben@gmail.com
-📞 +27 642 761 623
+## 🛠️ Technical Skills
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Data Science & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 ---
 
-Building data-driven solutions for South Africa's future.
+## 📂 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| 🏦 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric auth, and automated penetration testing |
+| 🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence |
+| 🔑 **Password-Strength-Checker** | JavaScript, CSS, HTML | Real-time password analysis with breach detection, generator, and dark/light theme |
+| 🎓 **Student-Management-System** | Flask, SQLAlchemy, JWT, Docker | Full-featured system with role-based access, analytics, and CI/CD pipeline |
+| 📊 **SA-Digital-Economy-Analysis** | Python, Pandas, Matplotlib, Seaborn, Streamlit | Real Eurostat data analysis comparing digital adoption across Europe with SA insights |
+| 🧮 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allben09&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allben-rakgoale-a94581426/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alphalben@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allben09)
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 Completing **Google AI Essentials** & **SAQA Unit Standard 114050**
+- 🤖 Building **SecureBank** – Enterprise Security Suite
+- 📊 Expanding data analysis portfolio with real-world datasets
+- 🔒 Deepening cybersecurity expertise
+- ☁️ Preparing for AWS Cloud Certification
+
+---
+
+> *"Building data-driven solutions for South Africa's future."* 🇿🇦
+
+---
+
+⭐ **If you like what you see, feel free to star my repositories!** ⭐
