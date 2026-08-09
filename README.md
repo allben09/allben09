@@ -107,11 +107,9 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 🎯 Current Focus
 
-- 🚀 Completing **Google AI Essentials** & **SAQA Unit Standard 114050**
 - 🤖 Building **SecureBank** – Enterprise Security Suite
 - 📊 Expanding data analysis portfolio with real-world datasets
 - 🔒 Deepening cybersecurity expertise
-- ☁️ Preparing for AWS Cloud Certification
 
 ---
 
