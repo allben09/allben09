@@ -97,6 +97,14 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allben09&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical&hide_border=true)
+
+## Languages
+
+- **Python**
+- **JavaScript**
+- **HTML5**
+- **CSS3**
+- **SQL**
 ---
 
 ## 🌐 Connect With Me
