@@ -27,7 +27,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | :--- | :--- | :--- |
 | 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/a949c655-25e5-475d-ac9a-7639f5f1713e/public_url) |
 | 🤖 **AI Literacy** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/OR61bg2W) |
-| 📊 **Generative AI Essentials: Using LLMs with Data** | Aug 2026 | [🔗 Verify]() |
+| 📊 **Generative AI Essentials: Using LLMs with Data** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/8fecff8f-4da8-4e15-9958-58fbfea6b606/public_url) |
 | ⚡ **Getting Started with Artificial Intelligence** | Aug 2026 | [🔗 Verify]() |
 | 🔥 **Getting Started With Generative AI** | Aug 2026 | [🔗 Verify]() |
 
