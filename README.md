@@ -7,7 +7,6 @@
 ---
 
 🏆 Certifications
-- 🐍 FNB Pre-Academy – Intro to Python Coding (94% Summative Score)
 - ☁️ AWS Academy – Cloud Foundations
 - 📊 Cisco Networking Academ – Data Science Essentials with Python
 - 📈 INFNOVA Technologies – Data Analytics & Visualization with Python
