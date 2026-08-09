@@ -42,7 +42,6 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | Certification | Status |
 | :--- | :--- |
 | 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete |
-| 🧘 **IBM – Explorations into Mindfulness** | In Progress |
 | 🤖 **IBM – Make Agentic AI Work for You** | In Progress |
 
 ---
