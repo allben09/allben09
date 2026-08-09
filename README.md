@@ -88,12 +88,15 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 🧮 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
 
 ---
-
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=allben09&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical)
+![Allben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allben09&show_icons=true&theme=radical&hide_border=true)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allben09&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allben09&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allben09&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical&hide_border=true)
 ---
 
 ## 🌐 Connect With Me
