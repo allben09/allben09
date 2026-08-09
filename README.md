@@ -22,7 +22,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 🏆 Certifications
 
-### 🟢 IBM SkillsBuild (5 Certifications)
+### 🟢 IBM SkillsBuild (6 Certifications)
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
 | 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/a949c655-25e5-475d-ac9a-7639f5f1713e/public_url) |
