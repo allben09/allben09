@@ -25,7 +25,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 ### 🟢 IBM SkillsBuild (5 Certifications)
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
-| 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/yn2rv0EB) |
+| 🧠 **Enterprise Design Thinking Practitioner** | Aug 2026 | [🔗 Verify](https://www.credly.com/badges/a949c655-25e5-475d-ac9a-7639f5f1713e/public_url) |
 | 🤖 **AI Literacy** | Aug 2026 | [🔗 Verify](https://www.credly.com/go/OR61bg2W) |
 | 📊 **Generative AI Essentials: Using LLMs with Data** | Aug 2026 | [🔗 Verify]() |
 | ⚡ **Getting Started with Artificial Intelligence** | Aug 2026 | [🔗 Verify]() |
