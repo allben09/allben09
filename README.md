@@ -44,6 +44,8 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | :--- | :--- |
 | 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete 
 
+**View all my verified credentials on [Credly](https://www.credly.com/users/allben-lesibe-rakgoale)**
+
 ---
 
 ## 🛠️ Technical Skills
