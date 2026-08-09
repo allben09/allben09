@@ -5,11 +5,22 @@
 💼 Aspiring Junior Data Analyst | Junior Cyber Security Analyst | Junior Software Engineer
 
 ---
+## Certifications
 
-🏆 Certifications
-- ☁️ AWS Academy – Cloud Foundations
-- 📊 Cisco Networking Academ – Data Science Essentials with Python
-- 📈 INFNOVA Technologies – Data Analytics & Visualization with Python
+### IBM SkillsBuild (5 Certifications)
+- 🎨 **Enterprise Design Thinking Practitioner** (August 2026)
+- 🤖 **AI Literacy** (August 2026)
+- 📊 **Generative AI Essentials: Using LLMs to Work with Data** (August 2026)
+- 🧠 **Getting Started with Artificial Intelligence** (August 2026)
+- ⚡ **Getting Started With Generative AI** (August 2026)
+
+### Cloud & Data
+- ☁️ **AWS Academy** – Cloud Foundations (July 2026)
+- 📊 **Cisco Networking Academy** – Data Science Essentials with Python (July 2026)
+- 📈 **INFNOVA Technologies** – Data Analytics & Visualization with Python (July 2026)
+
+### In Progress
+- 🏦 **FNB Pre-Academy** – Python Coding (Phase 1 Complete)
 
 ---
 
