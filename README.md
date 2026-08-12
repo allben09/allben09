@@ -88,7 +88,43 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 🎓 **Student-Management-System** | Flask, SQLAlchemy, JWT, Docker | Full-featured system with role-based access, analytics, and CI/CD pipeline |
 | 📊 **SA-Digital-Economy-Analysis** | Python, Pandas, Matplotlib, Seaborn, Streamlit | Real Eurostat data analysis comparing digital adoption across Europe with SA insights |
 | 🧮 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
+## 📊 Professional Development Workflow
 
+I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Projects, tracking every feature, bug, and improvement with structured workflows.
+
+| Project | Board | Methodology |
+| :--- | :--- | :--- |
+| **SecureBank** | [View Board](https://github.com/allben09/SecureBank) | Scrum with Sprint Planning |
+| **Phishing Email Detector** | [View Board](https://github.com/allben09/Phishing-Email-Detector) | Kanban with WIP Limits |
+
+### 🔄 Agile Workflow
+
+| Column | Purpose |
+| :--- | :--- |
+| **📝 Backlog** | Future features & ideas |
+| **📋 To Do** | Prioritized sprint tasks |
+| **🔄 In Progress** | Active development (WIP Limit: 3) |
+| **👀 Review** | Code review & testing (WIP Limit: 3) |
+| **✅ Done** | Completed & deployed |
+
+### 🏷️ Priority & Estimation
+
+| Label | Meaning | Example Task |
+| :--- | :--- | :--- |
+| 🔴 **P0 - Critical** | Production blocking | Fix false positive bug |
+| 🟠 **P1 - High** | Must do this sprint | Improve ML accuracy |
+| 🟡 **P2 - Medium** | Important but not urgent | Docker deployment |
+| 🟢 **P3 - Low** | Future consideration | Add more training data |
+
+### 📈 Current Sprint Goals (Sprint 1)
+
+| Goal | Priority | Status |
+| :--- | :--- | :--- |
+| Improve ML Accuracy to 96% | P1 | 🔄 In Progress |
+| Fix False Positive Bug | P0 | 📋 To Do |
+| Docker Deployment | P2 | 📋 To Do |
+
+> *This structured approach ensures I deliver high-quality, production-ready code while mastering industry-standard project management practices.*
 ---
 ## 📈 GitHub Stats
 
