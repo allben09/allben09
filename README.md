@@ -82,13 +82,13 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🏦 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric auth, and automated penetration testing |
-| 🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence |
+| 🌐 **allben-network-analyser** | Python, Scapy, Scikit-Learn, Streamlit, Docker | Advanced network traffic analyzer with ML-powered anomaly detection. Captures live packets, detects threats (port scanning, DDoS), and visualizes data in real-time. |
+| 🔒 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric authentication, and automated penetration testing |
+| 📧🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence |
 | 🔑 **Password-Strength-Checker** | JavaScript, CSS, HTML | Real-time password analysis with breach detection, generator, and dark/light theme |
 | 🎓 **Student-Management-System** | Flask, SQLAlchemy, JWT, Docker | Full-featured system with role-based access, analytics, and CI/CD pipeline |
 | 📊 **SA-Digital-Economy-Analysis** | Python, Pandas, Matplotlib, Seaborn, Streamlit | Real Eurostat data analysis comparing digital adoption across Europe with SA insights |
-| 🧮 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
-## 📊 Professional Development Workflow
+| 🤖 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
 
 I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Projects, tracking every feature, bug, and improvement with structured workflows.
 
