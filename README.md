@@ -80,8 +80,10 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 📂 Featured Projects
 
+
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
+| 🚗 **allben-car-price-prediction** | Python, XGBoost, FastAPI, Streamlit, MLflow, Docker | Production-grade ML pipeline predicting used car prices with 98% accuracy. Handles 100,000 rows, 55 features, with microservices architecture and CI/CD. |
 | 🌐 **allben-network-analyser** | Python, Scapy, Scikit-Learn, Streamlit, Docker | Advanced network traffic analyzer with ML-powered anomaly detection. Captures live packets, detects threats (port scanning, DDoS), and visualizes data in real-time. |
 | 🔒 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric authentication, and automated penetration testing |
 | 📧🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence |
