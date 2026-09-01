@@ -22,6 +22,13 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 🏆 Certifications
 
+### Google (Coursera) – AI Essentials Track (4 Certifications)
+- 🤖 **Introduction to AI** – Google / Coursera (Sep 2026) – [Verify]()
+- ⚡ **Maximize Productivity With AI Tools** – Google / Coursera (Sep 2026) – [Verify](https://coursera.org/verify/S1TELJS0ZW4Z)
+- 🎯 **Discover the Art of Prompting** – Google / Coursera (Sep 2026) – [Verify](https://coursera.org/verify/T6NV65VZ8TF8)
+- 🛡️ **Use AI Responsibly** – Google / Coursera (Sep 2026) – [Verify](https://coursera.org/verify/HUMQTIAB7DV2)
+
+
 ### 🟢 IBM SkillsBuild (6 Certifications)
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
