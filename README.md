@@ -154,13 +154,15 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical&hide_border=true)
 
-## Languages
+
+### Languages
 
 - **Python**
 - **JavaScript**
 - **HTML5**
 - **CSS3**
 - **SQL**
+- **SQLite**
 ---
 
 ## 🌐 Connect With Me
