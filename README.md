@@ -180,16 +180,6 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical&hide_border=true)
 
 
-### Languages
-
-- **Python**
-- **JavaScript**
-- **HTML5**
-- **CSS3**
-- **SQL**
-- **SQLite**
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allnen-rakgoale-a94581426?utm_source=share_via&utm_content=profile&utm_medium=member_android)
