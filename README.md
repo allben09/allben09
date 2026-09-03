@@ -22,14 +22,17 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 🏆 Certifications
 ---
-### 🤖 Google (Coursera) – AI Essentials Track (4 Certifications)
+
+### 🤖 Google (Coursera) – AI Essentials Specialization
 
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
+| 🏆 **Google AI Essentials (Specialization)** | Sep 2026 | [✅ Verify](https://coursera.org/verify/specialization/71ZEAE1OVOTD) |
 | 🤖 Introduction to AI | Sep 2026 | [✅ Verify](https://coursera.org/verify/TD6K41XJRFM2) |
-| ⚡ Maximize Productivity With AI Tools | Sep 2026 | [✅ Verify](https://coursera.org/verify/S1TELJS0ZW4Z) |
+| ⚡ Maximize Productivity With AI Tools | Sep 2026 | [✅ Verify](https://coursera.org/verify/S1TFLJSOZW4Z) |
 | 🎯 Discover the Art of Prompting | Sep 2026 | [✅ Verify](https://coursera.org/verify/T6NV65VZ8TF8) |
 | 🛡️ Use AI Responsibly | Sep 2026 | [✅ Verify](https://coursera.org/verify/HUMQTIAB7DV2) |
+| 🚀 Stay Ahead of the AI Curve | Sep 2026 | [✅ Verify](https://coursera.org/verify/Y83CFBHVFMSB) |
 
 ---
 
