@@ -53,15 +53,16 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify](https://www.credly.com/badges/ca693dbc-2738-4f22-984a-28c437a4cc46/public_url) |
 | 📈 **INFNOVA – Data Analytics & Visualization** | Jul 2026 | [🔗 Verify]() |
 
+### 📊 Data Analysis
+
+| Certification | Issued | Badge |
+| :--- | :--- | :--- |
+| Foundational Course in Data Analysis | Sep 2026 | ✅ Verify |
+
 ### 🟠 In Progress
 | Certification | Status |
 | :--- | :--- |
 | 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete 
-
-### 📊 Data Analysis
-| Certification | Issued | Badge |
-| :--- | :--- | :--- |
-| Foundational Course in Data Analysis | Sep 2026 | ✅ Verify |
 
 **View all my verified credentials on [Credly](https://www.credly.com/users/allben-lesibe-rakgoale)**
 
