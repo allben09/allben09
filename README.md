@@ -58,6 +58,11 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | :--- | :--- |
 | 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete 
 
+### 📊 Data Analysis
+| Certification | Issued | Badge |
+| :--- | :--- | :--- |
+| Foundational Course in Data Analysis | Sep 2026 | ✅ Verify |
+
 **View all my verified credentials on [Credly](https://www.credly.com/users/allben-lesibe-rakgoale)**
 
 ---
