@@ -53,7 +53,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify](https://www.credly.com/badges/ca693dbc-2738-4f22-984a-28c437a4cc46/public_url) |
 | 📈 **INFNOVA – Data Analytics & Visualization** | Jul 2026 | [🔗 Verify]() |
 
-### 📊 Data Analysis
+### 📊 BeTechufied Data Analysis
 
 | Certification | Issued | Badge |
 | :--- | :--- | :--- |
