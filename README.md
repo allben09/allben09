@@ -64,6 +64,32 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | :--- | :--- |
 | 🏦 **FNB Pre-Academy – Python Coding** | Phase 1 Complete 
 
+## 🔄 FNB App Academy – Phase 2 (In Progress)
+
+**Partnership:** University of Johannesburg | **Current Average:** 93.88%
+
+### ✅ Block 1: Digital Skills & Entrepreneurship (COMPLETE)
+
+| Module | Topic | Score | Status |
+| :--- | :--- | :--- | :--- |
+| Module 1 | Digital Literacy & Productivity Tools | 98.5% | ✅ Passed |
+| Module 2 | Entrepreneurial Mindset & Business | 93.5% | ✅ Passed |
+| Module 3 | Digital Entrepreneurship & Online Tools | 93.0% | ✅ Passed |
+| Module 4 | 21st Century Work Readiness | 93.2% | ✅ Passed |
+| Module 5 | Community Impact & Inclusive Growth | 92.5% | ✅ Passed |
+| **Block 1 Average** | | **93.88%** | **🏅 Distinction** |
+
+### 🔄 Block 2: App Development (Starts 8 Sep 2026)
+
+| Module | Topic | Status |
+| :--- | :--- | :--- |
+| Module 6 | User-Centred Design | ⏳ Starts 8 Sep |
+| Module 7 | OOP & Error Management | ⏳ 15 Sep |
+| Module 8 | Kivy Mobile UI | ⏳ 22 Sep |
+| Module 9 | Multi-Screen Apps | ⏳ 29 Sep |
+| Module 10 | API Integration | ⏳ 6 Oct |
+| **Capstone** | Build + Presentation | ⏳ 7-9 Oct |
+
 **View all my verified credentials on [Credly](https://www.credly.com/users/allben-lesibe-rakgoale)**
 
 ---
