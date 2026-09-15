@@ -244,13 +244,6 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allben09&theme=radical)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allben09&theme=radical&utcOffset=2)
 
-### 📈 Contribution Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allben09&bg_color=141321&color=FE428E&line=A9FEF7&point=F8D847&area=true&hide_border=true)
-
-</div>
 
 
 ## 🌐 Connect With Me
