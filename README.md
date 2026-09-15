@@ -20,6 +20,20 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ---
 
+## 🏆 Certifications Summary
+
+<div align="center">
+
+![Total](https://img.shields.io/badge/Total_Certifications-19+-22c55e?style=for-the-badge&logo=acclaim&logoColor=white)
+![Organizations](https://img.shields.io/badge/Organizations-8-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![GitHub Repos](https://img.shields.io/badge/Repositories-12-FF6B35?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-272-purple?style=for-the-badge&logo=git&logoColor=white)
+
+**Google** · **IBM** · **AWS** · **Cisco** · **FNB** · **INFNOVA** · **BeTechified** · **CAPACITI**
+
+</div>
+
+---
 ## 🏆 Certifications
 ---
 
