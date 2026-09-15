@@ -151,17 +151,20 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 
 ## 📂 Featured Projects
 
-
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🚗 **allben-car-price-prediction** | Python, XGBoost, FastAPI, Streamlit, MLflow, Docker | Production-grade ML pipeline predicting used car prices with 98% accuracy. Handles 100,000 rows, 55 features, with microservices architecture and CI/CD. |
-| 🌐 **allben-network-analyser** | Python, Scapy, Scikit-Learn, Streamlit, Docker | Advanced network traffic analyzer with ML-powered anomaly detection. Captures live packets, detects threats (port scanning, DDoS), and visualizes data in real-time. |
-| 🔒 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric authentication, and automated penetration testing |
-| 📧🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence |
-| 🔑 **Password-Strength-Checker** | JavaScript, CSS, HTML | Real-time password analysis with breach detection, generator, and dark/light theme |
-| 🎓 **Student-Management-System** | Flask, SQLAlchemy, JWT, Docker | Full-featured system with role-based access, analytics, and CI/CD pipeline |
-| 📊 **SA-Digital-Economy-Analysis** | Python, Pandas, Matplotlib, Seaborn, Streamlit | Real Eurostat data analysis comparing digital adoption across Europe with SA insights |
-| 🤖 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking |
+| 🌍 **communi-connect-umbrella** | Django, Python, PostgreSQL, Bootstrap, Docker | Production-grade Django platform for a real non-profit umbrella organization. Connects NPOs, NGOs, CO-Ops & NPCs across South Africa with international donors. Features member directory, donation portal, admin dashboard, and premium animated UI. |
+| 🚗 **allben-car-price-prediction** | Python, XGBoost, FastAPI, Streamlit, MLflow, Docker | Production-grade ML pipeline predicting used car prices with 98% accuracy. Handles 100,000 rows, 55 features, with microservices architecture and CI/CD. **LIVE on Streamlit Cloud.** |
+| 🤖 **AI-Productivity-Assistant** | Python, AI, OpenAI/Gemini API | AI-powered productivity assistant that automates tasks, summarises text, generates content, and boosts daily workflow efficiency. |
+| 🌐 **allben-network-analyzer** | Python, Scapy, Scikit-Learn, Streamlit, Docker | Advanced network traffic analyzer with ML-powered anomaly detection. Captures live packets, detects threats (port scanning, DDoS), and visualizes data in real-time. |
+| 🔒 **SecureBank** | React, Go, Rust, Python, C++, ML, MFA | Enterprise security suite with AI threat detection, biometric authentication, and automated penetration testing. |
+| 📧🎣 **Phishing-Email-Detector** | FastAPI, ML, Transformers, Docker | Advanced phishing detection with 95%+ accuracy using ensemble ML and real-time threat intelligence. |
+| 🔑 **Password-Strength-Checker** | JavaScript, CSS, HTML | Real-time password analysis with breach detection, generator, and dark/light theme. |
+| 🎓 **Student-Management-System** | Flask, SQLAlchemy, JWT, Docker | Full-featured system with role-based access, analytics, and CI/CD pipeline. |
+| 📊 **SA-Digital-Economy-Analysis** | Python, Pandas, Matplotlib, Seaborn, Streamlit | Real Eurostat data analysis comparing digital adoption across Europe with SA insights. |
+| 🤖 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking. |
+| 🏦 **fnb-python-practice** | Python | Complete FNB App Academy portfolio – Phase 1 (20/20) + Phase 2 (93.88%) + Python modules. |
+
 
 I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Projects, tracking every feature, bug, and improvement with structured workflows.
 
