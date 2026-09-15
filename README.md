@@ -229,17 +229,27 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 > *This structured approach ensures I deliver high-quality, production-ready code while mastering industry-standard project management practices.*
 ---
 
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-![Allben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=allben09&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+### 📊 Profile Summary
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allben09&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allben09&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=allben09&theme=radical&hide_border=true)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allben09&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allben09&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allben09&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allben09&theme=radical&utcOffset=2)
+
+### 📈 Contribution Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allben09&theme=redical&hide_border=true&area=true)
 
 </div>
+
 
 ## 🌐 Connect With Me
 
