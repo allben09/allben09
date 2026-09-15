@@ -243,12 +243,23 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allben09)
 
 ---
-
 ## 🎯 Current Focus
 
-- 🤖 Building **SecureBank** – Enterprise Security Suite
-- 📊 Expanding data analysis portfolio with real-world datasets
-- 🔒 Deepening cybersecurity expertise
+### 🔥 Active Development
+- 🌍 **Communi-Connect Umbrella** – Deploying Django website to AWS for real-world impact
+- 🚗 **Car Price Prediction** – Maintaining live ML app with 98% accuracy
+- 🤖 **AI-Productivity-Assistant** – Expanding AI automation features
+
+### 📚 Learning & Growth
+- 🏦 **FNB App Academy Phase 2** – Block 2 (App Development) starts Sep 2026
+- ☁️ **AWS Academy ML for NLP** – In progress
+- 🔒 **Cisco Introduction to Cybersecurity** – In progress
+- 📊 **BSc IT Semester 2** – Machine Learning, Big Data, Statistics
+
+### 🎯 Career Goals
+- 🎓 Complete FNB App Academy with distinction (Oct 2026)
+- 💼 Secure a graduate programme for 2027
+- 🌍 Deploy 5+ production-grade applications
 
 ---
 
