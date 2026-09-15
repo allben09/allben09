@@ -165,6 +165,13 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | 🤖 **AI-Powered-Calculator** | Python, Tkinter, AI | GUI calculator with natural language processing and history tracking. |
 | 🏦 **fnb-python-practice** | Python | Complete FNB App Academy portfolio – Phase 1 (20/20) + Phase 2 (93.88%) + Python modules. |
 
+## 🚀 Live Deployments
+
+| Project | Live URL | Tech |
+| :--- | :--- | :--- |
+| 🚗 Car Price Predictor | [allben-car-price-prediction.streamlit.app](https://allben-car-price-prediction.streamlit.app/) | Streamlit Cloud |
+| 🌍 Communi-Connect Umbrella | *Coming Soon on AWS* | AWS Lightsail |
+
 
 I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Projects, tracking every feature, bug, and improvement with structured workflows.
 
