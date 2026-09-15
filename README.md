@@ -246,7 +246,9 @@ I manage my projects using **Enterprise-Grade Agile Methodology** on GitHub Proj
 
 ### 📈 Contribution Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allben09&theme=redical&hide_border=true&area=true)
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=allben09&bg_color=141321&color=FE428E&line=A9FEF7&point=F8D847&area=true&hide_border=true)
 
 </div>
 
