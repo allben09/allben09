@@ -185,9 +185,10 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | Project | Live URL | Platform | Status |
 | :--- | :--- | :--- | :--- |
 | 🚗 **Car Price Predictor** | [allben-car-price-prediction.streamlit.app](https://allben-car-price-prediction.streamlit.app/) | Streamlit Cloud | 🟢 Live |
+| 🛡️ **Network Analyzer** | [allben-network-analyzer.streamlit.app](https://allben-network-analyzer.streamlit.app/) | Streamlit Cloud | 🟢 Live |
+| 📧 **Phishing Email Detector** | *Deployment in progress* | Render | 🟡 Pending |
 | 🌍 **Communi-Connect Umbrella** | *Deploying to AWS Lightsail* | AWS | 🔄 In Progress |
-| 🌐 **Network Analyzer** | *Coming to Streamlit Cloud* | Streamlit | ⏳ Planned |
-| 🔒 **SecureBank** | *Docker Hub* | Docker | ⏳ Planned |
+| 🔒 **SecureBank** | *Coming to Docker Hub* | Docker | ⏳ Planned |
 
 
 > *Recruiters: Click the live links to test my deployed applications.*
