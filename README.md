@@ -1,4 +1,4 @@
-👋 Hi, I'm Allben Rakgoale (allben09)
+👋 Hi, I'm Allben Sbusiso Rakgoale (allben09)
 
 🎓 BSc IT Student at Richfield Institute of Technology (Graduating 2027)  
 📍 South Africa  
