@@ -65,6 +65,7 @@ Passionate about building **intelligent, secure, and scalable systems** that sol
 | :--- | :--- | :--- |
 | ☁️ **AWS Academy – Cloud Foundations** | Jul 2026 | [🔗 Verify](https://www.credly.com/go/DNM6LH1B) |
 | 📊 **Cisco – Data Science Essentials with Python** | Jul 2026 | [🔗 Verify](https://www.credly.com/badges/ca693dbc-2738-4f22-984a-28c437a4cc46/public_url) |
+| 🤖 **AWS Academy – ML for NLP** | **Sep 2026** | [✅ Verify](https://www.credly.com/go/t8nx7bDc) |
 | 📈 **INFNOVA – Data Analytics & Visualization** | Jul 2026 | [🔗 Verify]() |
 
 ### 📊 BeTechufied Data Analysis
