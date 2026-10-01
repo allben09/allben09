@@ -1,6 +1,6 @@
 👋 Hi, I'm Allben Sbusiso Rakgoale (allben09)
 
-🎓 BSc IT Student at Richfield Institute of Technology (Graduating 2027)  
+🎓 BSc IT Student at Richfield Institute of Technology (Graduating 2028)  
 📍 South Africa  
 💼 Aspiring Junior Data Analyst | Junior Cyber Security Analyst | Junior Software Engineer
 
