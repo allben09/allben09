@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Passionate about building **intelligent, secure, and scalable systems** that solve real-world problems. Currently pursuing a **BSc in Information Technology** at Richfield Institute of Technology (Graduating 2027), with a strong focus on:
+Passionate about building **intelligent, secure, and scalable systems** that solve real-world problems. Currently pursuing a **BSc in Information Technology** at Richfield Institute of Technology (Graduating 2028), with a strong focus on:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - ☁️ Cloud Computing (AWS Certified)
